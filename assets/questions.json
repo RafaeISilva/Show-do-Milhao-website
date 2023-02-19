@@ -1,0 +1,242 @@
+{
+    "001": {
+        "title": "What is the capital of Australia?",
+        "options": [
+            "*Canberra",
+            "Sydney",
+            "Melbourne",
+            "Brisbane"
+        ],
+        "difficulty": "easy"
+    },
+    "002": {
+        "title": "Which country is famous for its tulips?",
+        "options": [
+            "*Netherlands",
+            "Italy",
+            "France",
+            "Spain"
+        ],
+        "difficulty": "easy"
+    },
+    "003": {
+        "title": "What is the largest planet in our solar system?",
+        "options": [
+            "*Jupiter",
+            "Mars",
+            "Venus",
+            "Saturn"
+        ],
+        "difficulty": "easy"
+    },
+    "004": {
+        "title": "What is the currency of Canada?",
+        "options": [
+            "*Canadian dollar",
+            "US dollar",
+            "Euro",
+            "Pound sterling"
+        ],
+        "difficulty": "easy"
+    },
+    "005": {
+        "title": "What is the smallest continent by land area?",
+        "options": [
+            "*Australia",
+            "Antarctica",
+            "South America",
+            "Europe"
+        ],
+        "difficulty": "easy"
+    },
+    "006": {
+        "title": "What is the most spoken language in the world?",
+        "options": [
+            "*Mandarin Chinese",
+            "English",
+            "Spanish",
+            "Hindi"
+        ],
+        "difficulty": "easy"
+    },
+    "007": {
+        "title": "Who was the first woman to win a Nobel Prize?",
+        "options": [
+            "*Marie Curie",
+            "Rosalind Franklin",
+            "Dorothy Hodgkin",
+            "Barbara McClintock"
+        ],
+        "difficulty": "medium"
+    },
+    "008": {
+        "title": "What is the name of the highest waterfall in the world?",
+        "options": [
+            "*Angel Falls",
+            "Niagara Falls",
+            "Iguazu Falls",
+            "Victoria Falls"
+        ],
+        "difficulty": "medium"
+    },
+    "009": {
+        "title": "Which continent is the driest in the world?",
+        "options": [
+            "*Antarctica",
+            "Africa",
+            "Asia",
+            "South America"
+        ],
+        "difficulty": "medium"
+    },
+    "010": {
+        "title": "Who is the author of the novel 'To Kill a Mockingbird'?",
+        "options": [
+            "*Harper Lee",
+            "J.D. Salinger",
+            "Ernest Hemingway",
+            "F. Scott Fitzgerald"
+        ],
+        "difficulty": "medium"
+    },
+    "011": {
+        "title": "What is the name of the world's largest coral reef system?",
+        "options": [
+            "*Great Barrier Reef",
+            "Cancun Reef",
+            "Red Sea Coral Reef",
+            "Andros Barrier Reef"
+        ],
+        "difficulty": "medium"
+    },
+    "012": {
+        "title": "What is the name of the largest desert in the world?",
+        "options": [
+            "*Sahara",
+            "Gobi",
+            "Arabian",
+            "Kalahari"
+        ],
+        "difficulty": "medium"
+    },
+    "013": {
+        "title": "What is the capital of South Korea?",
+        "options": [
+            "*Seoul",
+            "Tokyo",
+            "Beijing",
+            "Hanoi"
+        ],
+        "difficulty": "medium"
+    },
+    "014": {
+        "title": "What is the smallest country in the world by land area?",
+        "options": [
+            "*Vatican City",
+            "Monaco",
+            "Nauru",
+            "San Marino"
+        ],
+        "difficulty": "medium"
+    },
+    "015": {
+        "title": "What is the name of the first artificial satellite launched into space?",
+        "options": [
+            "*Sputnik 1",
+            "Explorer 1",
+            "Vanguard 1",
+            "Tiros 1"
+        ],
+        "difficulty": "medium"
+    },
+    "016": {
+        "title": "Who was the first person to reach the summit of Mount Everest?",
+        "options": [
+            "*Sir Edmund Hillary",
+            "Tenzing Norgay",
+            "Reinhold Messner",
+            "Junko Tabei"
+        ],
+        "difficulty": "medium"
+    },
+    "017": {
+        "title": "What is the smallest unit of measurement in the metric system?",
+        "options": [
+            "*Femtometer",
+            "Attometer",
+            "Picometer",
+            "Nanometer"
+        ],
+        "difficulty": "hard"
+    },
+    "018": {
+        "title": "What is the name of the phenomenon that occurs when light bends as it passes through a medium?",
+        "options": [
+            "*Refraction",
+            "Reflection",
+            "Absorption",
+            "Scattering"
+        ],
+        "difficulty": "hard"
+    },
+    "019": {
+        "title": "What is the largest organ in the human body?",
+        "options": [
+            "*Skin",
+            "Liver",
+            "Brain",
+            "Heart"
+        ],
+        "difficulty": "hard"
+    },
+    "020": {
+        "title": "Who discovered penicillin?",
+        "options": [
+            "*Alexander Fleming",
+            "Robert Koch",
+            "Louis Pasteur",
+            "Joseph Lister"
+        ],
+        "difficulty": "hard"
+    },
+    "021": {
+        "title": "What is the name of the process by which plants convert light energy into chemical energy?",
+        "options": [
+            "*Photosynthesis",
+            "Respiration",
+            "Digestion",
+            "Circulation"
+        ],
+        "difficulty": "hard"
+    },
+    "022": {
+        "title": "Who painted the famous work 'The Persistence of Memory'?",
+        "options": [
+            "*Salvador Dali",
+            "Vincent van Gogh",
+            "Pablo Picasso",
+            "Leonardo da Vinci"
+        ],
+        "difficulty": "hard"
+    },
+    "023": {
+        "title": "What is the name of the largest bone in the human body?",
+        "options": [
+            "*Femur",
+            "Humerus",
+            "Tibia",
+            "Radius"
+        ],
+        "difficulty": "hard"
+    },
+    "024": {
+        "title": "What is the name of the smallest planet in our solar system?",
+        "options": [
+            "*Mercury",
+            "Mars",
+            "Venus",
+            "Earth"
+        ],
+        "difficulty": "hard"
+    }
+}
