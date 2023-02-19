@@ -25,7 +25,7 @@ const editScript = fs.readFileSync("js/edit.js")
 const icon = fs.readFileSync("assets/icon.png")
 const card = fs.readFileSync("assets/card.png")
 const cardFront = fs.readFileSync("assets/cardFront.png")
-const highScores = fs.readFileSync("assets/highScores.json")
+let highScores = fs.readFileSync("assets/highScores.json")
 const questions = fs.readFileSync("assets/questions.json")
 
 const server = http.createServer((req, res) => {
@@ -106,10 +106,10 @@ const server = http.createServer((req, res) => {
             // for some reason it has this "data=" at the start
             data = decodeURIComponent(body.replace("data=", ""))
             fs.writeFileSync("assets/highScores.json", data)
+            // updating the leaderboard
+            highScores = fs.readFileSync("assets/highScores.json")
         })
     }
-
-    res.end("Error page not found")
 })
 
 server.listen(3000)
